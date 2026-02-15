@@ -7,7 +7,7 @@ The system models a smart home environment where the agent senses environmental 
 
 The AI agent makes intelligent decisions to control home functions such as lights, thermostat, and door locking.
 
-🛠 Technologies Used
+ Technologies Used
 
 Python
 
